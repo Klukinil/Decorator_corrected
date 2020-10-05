@@ -1,5 +1,5 @@
 import requests
-from Decorators.decorator1 import logger
+from decorator1 import logger
 import json
 
 @logger
